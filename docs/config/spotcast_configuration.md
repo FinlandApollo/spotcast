@@ -100,7 +100,7 @@ python relay_server.py
 #### One-Step setup instructions
 
 ```bash
-curl.exe -sSL https://raw.githubusercontent.com/fondberg/spotcast/refs/heads/dev/scripts/relay_server.py | python
+curl -sSL https://raw.githubusercontent.com/fondberg/spotcast/refs/heads/dev/scripts/relay_server.py | python
 ```
 
 > ℹ️ Info
